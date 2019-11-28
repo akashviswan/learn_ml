@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 numpy = "*"
+pandas = "*"
+matplotlib = "*"
+sklearn = "*"
+mpl-toolkits = "*"
 
 [requires]
 python_version = "3.6"
